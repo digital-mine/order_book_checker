@@ -1,2 +1,4 @@
 # order book checker
-Simple python program that check the KRAKEN.COM bids, and asks orders
+Simple python program that checks the KRAKEN.COM bids, and asks orders.
+
+The program check the order book in to find the current biggest bids, and asks orders within 500 bids, and asks
